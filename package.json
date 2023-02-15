@@ -1,0 +1,23 @@
+{
+  "name": "amt-gmail-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirasanthan-jesugeevegan/amt-cypress-gmail-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pirasanthan-jesugeevegan/amt-cypress-gmail-example/issues"
+  },
+  "homepage": "https://github.com/pirasanthan-jesugeevegan/amt-cypress-gmail-example#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
